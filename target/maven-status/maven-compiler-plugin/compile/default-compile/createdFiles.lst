@@ -1,0 +1,5 @@
+com\org\intellect\assesment\App$WebApp.class
+com\org\intellect\assesment\resources\UserResource.class
+com\org\intellect\assesment\WebAppConfig.class
+com\org\intellect\assesment\App.class
+com\org\intellect\assesment\model\User.class
